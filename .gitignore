@@ -1,3 +1,4 @@
-.txt
-.sig
-.swp
+*.txt
+*.sig
+*.swp
+releases/
